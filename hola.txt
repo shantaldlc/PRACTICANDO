@@ -1,1 +1,9 @@
-HOLA AMIGOS
+123345678910
+
+<HTML>
+	<HEAD>
+		<FORM>
+			<H1>Hola mundo</H1>
+		</FORM>
+	</HEAD>
+</HTML>
